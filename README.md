@@ -24,5 +24,7 @@ This project analyzes Canada's per capita income data from 1970 to 2016, uncover
 
 ---
 
-## 📁 Repository Structure
+## 📁 Presentation
+-**I also made a presentation for the same make sure you give a look**
+-[Link Text](https://docs.google.com/presentation/d/1IaKfw5OHeLUV5qXtnnCT7famRRXaoDrb/edit?usp=sharing&ouid=112853411642054394857&rtpof=true&sd=true "Presentation Link")
 
