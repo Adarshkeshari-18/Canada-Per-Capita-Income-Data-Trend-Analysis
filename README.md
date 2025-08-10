@@ -1,8 +1,8 @@
 # Canada Per Capita Income Analysis (1970-2016)
 
-[![Data Analysis](https://img.shields.io/badge/Analysis-Economic%20Data-blue)]()
-[![Years Covered](https://img.shields.io/badge/Period-1970--2016-green)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow)]()
+[![Data Analysis](https://tse3.mm.bing.net/th/id/OIP.T6ac9a0Nt0jPutXxdc2rpgHaE7?pid=Api&P=0&h=180)]()
+
+
 
 A comprehensive analysis of Canada's per capita income trends over 46 years, revealing economic cycles, growth patterns, and the impact of major global events on Canadian prosperity.
 
